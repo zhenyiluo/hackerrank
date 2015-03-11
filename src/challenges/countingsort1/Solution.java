@@ -18,7 +18,9 @@ public class Solution {
             a[index]++;
         }
         for(int i = 0; i < 100; i++){
-            System.out.print(a[i] + " ");
+            for(int j = 0; j < a[i]; j++){
+                System.out.print(i + " ");
+            }
         }
     }
 }
