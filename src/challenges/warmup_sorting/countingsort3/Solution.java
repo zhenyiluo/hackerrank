@@ -1,4 +1,4 @@
-package countingsort3;
+package challenges.warmup_sorting.countingsort3;
 
 /**
  * Created by Eric on 15-3-12.
