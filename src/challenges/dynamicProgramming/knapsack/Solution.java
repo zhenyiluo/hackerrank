@@ -1,4 +1,4 @@
-package challenges.dynamicProgramming;
+package challenges.dynamicProgramming.knapsack;
 
 /**
  * Created by Eric on 15-3-17.
