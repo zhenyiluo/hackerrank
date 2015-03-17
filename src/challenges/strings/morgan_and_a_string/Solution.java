@@ -80,4 +80,8 @@ public class Solution {
         }
         return index1-1;
     }
+
+//    Failed test case:
+//    1
+//    YZZAZZC ZZAZZC
 }
