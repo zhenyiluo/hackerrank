@@ -1,7 +1,7 @@
 package challenges.dynamicProgramming.stringReduction;
 
 /**
- * Created by Eric on 15-3-21.
+ * Created by Zhenyi Luo on 15-3-21.
  */
 
 import java.util.Scanner;

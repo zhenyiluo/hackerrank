@@ -1,7 +1,7 @@
 package challenges.dynamicProgramming.sherlockAndCost;
 
 /**
- * Created by Eric on 15-3-20.
+ * Created by Zhenyi Luo on 15-3-20.
  */
 
 import java.util.Scanner;

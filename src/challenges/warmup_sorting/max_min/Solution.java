@@ -1,7 +1,7 @@
 package challenges.warmup_sorting.max_min;
 
 /**
- * Created by Eric on 15-3-9.
+ * Created by Zhenyi Luo on 15-3-9.
  */
 import java.io.BufferedReader;
 import java.io.IOException;

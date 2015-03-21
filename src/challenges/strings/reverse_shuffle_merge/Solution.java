@@ -1,7 +1,7 @@
 package challenges.strings.reverse_shuffle_merge;
 
 /**
- * Created by Eric on 15-3-15.
+ * Created by Zhenyi Luo on 15-3-15.
  */
 
 import java.util.Arrays;

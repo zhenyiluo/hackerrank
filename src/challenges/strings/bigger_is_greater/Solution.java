@@ -1,7 +1,7 @@
 package challenges.strings.bigger_is_greater;
 
 /**
- * Created by Eric on 15-3-14.
+ * Created by Zhenyi Luo on 15-3-14.
  */
 
 import java.util.Scanner;

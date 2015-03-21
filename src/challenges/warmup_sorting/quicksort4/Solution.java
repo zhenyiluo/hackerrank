@@ -3,7 +3,7 @@ package challenges.warmup_sorting.quicksort4;
 import java.util.Scanner;
 
 /**
- * Created by Eric on 15-3-11.
+ * Created by Zhenyi Luo on 15-3-11.
  */
 public class Solution {
     static int countQuickSort =0;

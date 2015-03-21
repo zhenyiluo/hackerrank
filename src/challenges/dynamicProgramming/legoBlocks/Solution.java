@@ -3,7 +3,7 @@ package challenges.dynamicProgramming.legoBlocks;
 import java.util.Scanner;
 
 /**
- * Created by Eric on 15-3-19.
+ * Created by Zhenyi Luo on 15-3-19.
  */
 public class Solution {
     final static int MOD = 1000000007;

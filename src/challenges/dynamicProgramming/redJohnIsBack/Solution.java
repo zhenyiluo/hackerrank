@@ -3,7 +3,7 @@ package challenges.dynamicProgramming.redJohnIsBack;
 import java.util.Scanner;
 
 /**
- * Created by Eric on 15-3-18.
+ * Created by Zhenyi Luo on 15-3-18.
  */
 public class Solution {
     public static void main(String[] args){

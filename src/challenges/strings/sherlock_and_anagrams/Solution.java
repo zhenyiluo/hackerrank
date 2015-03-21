@@ -1,7 +1,7 @@
 package challenges.strings.sherlock_and_anagrams;
 
 /**
- * Created by Eric on 15-3-15.
+ * Created by Zhenyi Luo on 15-3-15.
  */
 
 import java.util.Arrays;

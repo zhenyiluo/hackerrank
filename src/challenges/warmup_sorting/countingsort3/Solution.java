@@ -1,7 +1,7 @@
 package challenges.warmup_sorting.countingsort3;
 
 /**
- * Created by Eric on 15-3-12.
+ * Created by Zhenyi Luo on 15-3-12.
  */
 
 import java.util.Scanner;

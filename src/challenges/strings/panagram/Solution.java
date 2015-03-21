@@ -1,7 +1,7 @@
 package challenges.strings.panagram;
 
 /**
- * Created by Eric on 15-3-14.
+ * Created by Zhenyi Luo on 15-3-14.
  */
 import java.io.*;
 import java.util.*;

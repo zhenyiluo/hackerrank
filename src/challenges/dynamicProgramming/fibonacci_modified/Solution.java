@@ -1,7 +1,7 @@
 package challenges.dynamicProgramming.fibonacci_modified;
 
 /**
- * Created by Eric on 15-3-18.
+ * Created by Zhenyi Luo on 15-3-18.
  */
 
 import java.math.BigInteger;

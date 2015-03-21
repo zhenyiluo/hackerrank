@@ -1,7 +1,7 @@
 package challenges.dynamicProgramming.longest_Increasing_Subsequence;
 
 /**
- * Created by Eric on 15-3-17.
+ * Created by Zhenyi Luo on 15-3-17.
  */
 
 import java.util.Scanner;

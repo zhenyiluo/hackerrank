@@ -1,7 +1,7 @@
 package challenges.warmup_sorting.insertionsort2;
 
 /**
- * Created by Eric on 15-3-10.
+ * Created by Zhenyi Luo on 15-3-10.
  */
 import java.util.*;
 

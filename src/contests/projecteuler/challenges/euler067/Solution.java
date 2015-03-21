@@ -1,7 +1,7 @@
 package contests.projecteuler.challenges.euler067;
 
 /**
- * Created by Eric on 15-3-8.
+ * Created by Zhenyi Luo on 15-3-8.
  */
 import java.io.*;
 import java.util.*;

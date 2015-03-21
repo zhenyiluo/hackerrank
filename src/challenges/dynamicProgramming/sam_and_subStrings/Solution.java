@@ -1,7 +1,7 @@
 package challenges.dynamicProgramming.sam_and_subStrings;
 
 /**
- * Created by Eric on 15-3-19.
+ * Created by Zhenyi Luo on 15-3-19.
  */
 import java.util.*;
 

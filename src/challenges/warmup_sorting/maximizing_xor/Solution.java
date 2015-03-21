@@ -1,7 +1,7 @@
 package challenges.warmup_sorting.maximizing_xor;
 
 /**
- * Created by Eric on 15-3-8.
+ * Created by Zhenyi Luo on 15-3-8.
  */
 import java.util.*;
 

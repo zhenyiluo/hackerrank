@@ -1,7 +1,7 @@
 package challenges.strings.palindrome_index;
 
 /**
- * Created by Eric on 15-3-14.
+ * Created by Zhenyi Luo on 15-3-14.
  */
 
 import java.util.Scanner;
