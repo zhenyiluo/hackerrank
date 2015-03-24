@@ -1,4 +1,4 @@
-package challenges.search.equations;
+package challenges.search_combinatorics.equations;
 
 import java.util.ArrayList;
 import java.util.Scanner;

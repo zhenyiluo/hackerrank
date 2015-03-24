@@ -1,4 +1,4 @@
-package challenges.search.icecreamParlor;
+package challenges.search_combinatorics.icecreamParlor;
 
 /**
  * Created by Zhenyi Luo on 15-3-21.

@@ -1,4 +1,4 @@
-package challenges.search.sherlockAndArray;
+package challenges.search_combinatorics.sherlockAndArray;
 
 /**
  * Created by Zhenyi Luo on 15-3-22.

@@ -1,4 +1,4 @@
-package challenges.search.encryption;
+package challenges.search_combinatorics.encryption;
 
 /**
  * Created by Zhenyi Luo on 15-3-21.

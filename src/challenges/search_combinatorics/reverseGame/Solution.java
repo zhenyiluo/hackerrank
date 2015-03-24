@@ -1,4 +1,4 @@
-package challenges.search.reverseGame;
+package challenges.search_combinatorics.reverseGame;
 
 /**
  * Created by Zhenyi Luo on 15-3-23.

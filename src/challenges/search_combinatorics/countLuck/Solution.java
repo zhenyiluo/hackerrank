@@ -1,4 +1,4 @@
-package challenges.search.countLuck;
+package challenges.search_combinatorics.countLuck;
 
 /**
  * Created by Zhenyi Luo on 15-3-21.

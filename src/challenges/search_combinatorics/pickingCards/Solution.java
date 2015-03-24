@@ -1,9 +1,8 @@
-package challenges.search.pickingCards;
+package challenges.search_combinatorics.pickingCards;
 
 /**
  * Created by Zhenyi Luo on 15-3-23.
  */
-import java.io.*;
 import java.util.*;
 
 public class Solution {
