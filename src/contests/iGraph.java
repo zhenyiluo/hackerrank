@@ -1,3 +1,13 @@
+public static class Pair {
+        int v, w;
+
+        public Pair(int v, int w) {
+            this.v = v;
+            this.w = w;
+        }
+}
+
+
 static public class iGraph {
 
         public void loadMem(int n, int m) {
